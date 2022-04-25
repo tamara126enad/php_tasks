@@ -1,0 +1,30 @@
+body{text-align: center}
+
+#body1{background:#FBF8F1 ;}
+#body2{background:#E3BEC6 ;}
+#body3{background:#e1eae9 ;}
+#body4{background:#FFBCD1 ;}
+#body5{background:#F0ECE3 ;}
+#body6{background:#716F81 ;}
+#body7{background:#D6D2C4 ;}
+#body8{background:#f2dada ;}
+
+
+h1{color:#7B6079 ;} 
+h2{color:#046582 ;}
+h3{color:#763857 ;}
+h4{color:#181D31 ;}
+h5{color:#22577E ;}
+h6{color:#797A7E ;}
+
+input {
+    font-size: 1.2em;
+    padding: 3px;
+    border-radius: 9999em;}
+
+#line {background:#630606 ;
+       height:4px;}
+
+span {color:#763857; font-size:25px; font-weight: bold;}
+
+ul{list-style-position: inside;}
