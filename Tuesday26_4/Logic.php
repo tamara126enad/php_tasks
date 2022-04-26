@@ -19,7 +19,7 @@
 
 <?php  
 $year=$_POST['yy'];
-  function year_check($year){
+
     if ($year % 400 == 0)
        echo"<h2> $year It is a leap year</h2>";
     else if ($year % 100 == 0)
@@ -28,8 +28,7 @@ $year=$_POST['yy'];
        echo "<h2>$year It is a leap year</h2>";
     else
        echo "<h2> $year It is not a leap year</h2>";
- }
- year_check($year);
+
 ?>
 
 <hr id="line">
