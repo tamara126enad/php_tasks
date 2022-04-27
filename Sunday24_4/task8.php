@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Task 8</title>
 <style>
-body {background:#F7DAD9; text-align:center;}
+body {background:#F7DAD9;
+     text-align:center;}
 h1 {color:blue;}
 h2 {color:green;}
 #h {color:#FF5F00;}
@@ -21,10 +22,5 @@ h2 {color:green;}
    <h2>click button to redirect you to PHP Resources</h2> 
 <input type="submit" value="Submit">
 </form>
-
-
-
-
-
 </body>
 </html>
